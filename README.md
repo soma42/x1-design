@@ -2,4 +2,4 @@
 
 Find the XDS logo in various versions here!
 
-The official XDS color is XDS Purple (#650081)
+The official XDS color is XDS Purple (#650081).
