@@ -1,3 +1,0 @@
-The Main XDS Color is: "Dark Violet"
-RGB Decimal: 61, 0, 54
-RGB Hex: #3D0036
